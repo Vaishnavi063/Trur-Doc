@@ -51,6 +51,11 @@ A comprehensive AI-powered document verification system that uses YOLO object de
 
 ## 📁 Project Structure
 
+## 🌐 Deployment
+
+- **Frontend**: Deployed at [https://true-doc-nine.vercel.app/](https://true-doc-nine.vercel.app/)
+- **Backend**: Not deployed
+
 ```
 true-doc/
 ├── truedoc_backend/           # FastAPI backend
